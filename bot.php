@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-if (!defined('BOT_TOKEN') || !defined('BOT_USERNAME')) {
+if (!defined('9084021184:AAEYUj-UNZ1tjqlVnwoTxfnyDLD4im7lT8M') || !defined('@robiul_smm_admin')) {
     http_response_code(503);
     exit('Runtime credentials unavailable');
 }
